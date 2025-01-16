@@ -1,4 +1,4 @@
-#Overview#
+##Overview##
 
 This project will be a complete journey into the world of software architecture, learning typescript, and creating a chrome extension.
 
