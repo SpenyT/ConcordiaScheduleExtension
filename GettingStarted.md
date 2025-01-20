@@ -7,6 +7,20 @@ Inspired by a friend of mine's project, I wish to overhaul the student user expe
 
 
 # Project Requirements
-## Features
 I will be writting down all thought processes, brainstorming, planning and progress done during the completion of this project.
 The languages and packages I plan to use are typescript, javascript, html, css, react.
+
+## Features
+- Export schedule to calendar apps
+- Get reviews of each class and teachers
+- Plan your entire degree sequence
+
+## Goals
+
+
+## Tools
+
+
+
+# Planning
+## Step 1 - 
